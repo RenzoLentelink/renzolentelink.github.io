@@ -9,3 +9,8 @@ h1 {
 .slayerinfo {
     font: italic 15px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+
+img {
+    width: 128vw;
+    height: 128vw;
+}
