@@ -5,3 +5,7 @@ h1 {
 .slayername {
     font: bold 20px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+
+.slayerinfo {
+    font: italic 15px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
