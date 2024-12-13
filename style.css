@@ -1,3 +1,7 @@
 h1 {
-    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    font: 35px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.slayername {
+    font: bold 20px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
