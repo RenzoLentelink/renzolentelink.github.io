@@ -18,7 +18,15 @@ img {
     height: 200px;
 }
 
+.orange-border {
+    background-color: #FF6600;
+    height: 40vw;
+    width: 100%;
+    margin: 0;
+    padding-bottom: 10px;
+}
 
 body {
     background-color: mediumpurple;
+    margin: 0;
 }
