@@ -22,13 +22,13 @@ img {
 
 .orange-border {
     background-color: red;
-    height: 40vw;
+    height: 100%;
     width: 100%;
     margin: 0;
     text-align: center;
 }
 
 body {
-    background-color: limegreen;
+    background-color: white;
     margin: 0;
 }
