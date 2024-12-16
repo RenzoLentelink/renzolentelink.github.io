@@ -18,6 +18,8 @@ img {
     height: 200px;
     display: inline-block;
     margin: auto;
+    padding-bottom: 14.1%;
+    padding-top: 5%;
 }
 
 .orange-border {
