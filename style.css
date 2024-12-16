@@ -1,13 +1,16 @@
 h1 {
-    font: 35px "Lucida Grande", Helvetica, Arial, sans-serif;
+    font: bold 3vw "Lucida Grande", Helvetica, Arial, sans-serif;
+    text-align: center;
 }
 
 .slayername {
-    font: bold 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+    font: bold 2vw "Lucida Grande", Helvetica, Arial, sans-serif;
+    text-align: center;
 }
 
 .slayerinfo {
-    font: italic 15px "Lucida Grande", Helvetica, Arial, sans-serif;
+    font: 1vw "Lucida Grande", Helvetica, Arial, sans-serif;
+    text-align: center;
 }
 
 img {
