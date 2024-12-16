@@ -16,6 +16,8 @@ h1 {
 img {
     width: 200px;
     height: 200px;
+    display: inline-block;
+    margin: auto;
 }
 
 .orange-border {
@@ -23,6 +25,7 @@ img {
     height: 40vw;
     width: 100%;
     margin: 0;
+    text-align: center;
 }
 
 body {
