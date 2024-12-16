@@ -19,14 +19,13 @@ img {
 }
 
 .orange-border {
-    background-color: #FF6600;
+    background-color: red;
     height: 40vw;
     width: 100%;
     margin: 0;
-    padding-bottom: 10px;
 }
 
 body {
-    background-color: mediumpurple;
+    background-color: limegreen;
     margin: 0;
 }
